@@ -1,0 +1,26 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+/* styles.css */
+
+/* styles.css */
+body {
+    background: var(--US-White, #FFFFFF);
+    width: 375px;
+    height: 5107px;
+    position: relative;
+}
+
+.logo img {
+    width: 118px;
+    height: 39px;
+    position: absolute;
+    top: 12px;
+    left: 18px;
+    gap: 0px;
+    /* This property isn't used in this context but can be defined if needed */
+    opacity: 1;
+    /* Sets the image to be completely transparent */
+}
